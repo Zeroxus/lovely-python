@@ -1,2 +1,2 @@
 life is short, I love python
-一些有趣的python脚本，供新手学习
+一些有趣的python程序，供新手学习
