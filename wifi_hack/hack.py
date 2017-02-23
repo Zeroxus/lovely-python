@@ -55,7 +55,7 @@ def main():
     #扫描时常
     scantimes = 3
     #单个密码测试延迟
-    testtimes = 15
+    testtimes = 5
     output = sys.stdout
     #结果文件保存路径
     files = "TestRes.txt"
